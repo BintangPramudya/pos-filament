@@ -3,11 +3,12 @@
 ## Cara Clone dan Setup Proyek
 
 1. **Clone Repository**
+   ```bash
    https://github.com/BintangPramudya/pos-filament.git
 
-2. **Composer Update**
+3. **Composer Update**
    composer update
 
-3. **jhjhjhj**
+4. **jhjhjhj**
    
   
