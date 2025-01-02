@@ -1,8 +1,7 @@
-# Nama Proyek Laravel
-
-Deskripsi singkat tentang proyek Anda.
+# POS FILAMENT
 
 ## Cara Clone dan Setup Proyek
 
 1. **Clone Repository**
+   
   
